@@ -125,7 +125,7 @@ pip install -r requirements.txt
     - Evaluate the chatbot
 
 ### Interacting with the Chatbot
-- Start the chatbot using streamlit run yourscript.py
+- Start the chatbot using streamlit run app.py
 
 - Refer `app.py` file to see how to use the model in a chatbot
   
